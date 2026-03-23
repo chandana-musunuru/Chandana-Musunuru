@@ -27,6 +27,7 @@ RAG pipelines, semantic search, and LLM integrations, all without leaving the JV
 ```yaml
 Name     : Chandana Musunuru
 Role     : Java Backend Developer | GenAI Engineer
+Education: M.S. Computer Science — CSUSB 2025
 Location : Orlando, FL, USA
 Focus    : RAG · LLMs · Vector Search · Spring Boot · LangChain4j .Docker .AWS
 Status   : Open to new opportunities 🟢
@@ -34,7 +35,7 @@ Status   : Open to new opportunities 🟢
 
 - 🔭 Building **RAG-based AI applications** in Java using LangChain4j + Spring Boot
 - 🧠 Deep diving into **Vector Embeddings, Semantic Search, Prompt Engineering, Agentic Workflows**
-- 💡 Proving that **Java can power production-grade AI** — no Python required
+- 💡 Proving that **Java can power production-grade AI** 
 - 🤝 Open-source contributor at **@VosynSW**
 - 💬 Ask me about **Java, Spring Boot, LangChain4j, RAG pipelines, Groq API**
 - 🤝 Open to collaborations on **Java AI integrations & production RAG demos**
