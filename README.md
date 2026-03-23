@@ -6,7 +6,7 @@
 
 # Hi there, I'm Chandana Musunuru! 👋
 
-### 🚀 Java Backend Developer → Generative AI Engineer
+ Java Backend Developer + Generative AI Engineer
 
 <p>
 Building enterprise-grade Java systems supercharged with Generative AI —<br/>
@@ -15,20 +15,20 @@ RAG pipelines, semantic search, and LLM integrations, all without leaving the JV
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandana-musunuru/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musunuruchandana1999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandana-musunuru)
 
 </div>
 
----
+
 
 ## 👩‍💻 About Me
 ```yaml
 Name     : Chandana Musunuru
 Role     : Java Backend Developer | GenAI Engineer
 Location : Orlando, FL, USA
-Focus    : RAG · LLMs · Vector Search · Spring Boot · LangChain4j
+Focus    : RAG · LLMs · Vector Search · Spring Boot · LangChain4j .Docker .AWS
 Status   : Open to new opportunities 🟢
 ```
 
@@ -83,7 +83,7 @@ Status   : Open to new opportunities 🟢
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chandana-musunuru&show_icons=true&theme=radical)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandana-musunuru&layout=compact&theme=radical)
 
 </div>
