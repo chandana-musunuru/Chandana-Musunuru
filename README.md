@@ -33,16 +33,16 @@ Focus    : RAG · LLMs · Vector Search · Spring Boot · LangChain4j .Docker .A
 Status   : Open to new opportunities 🟢
 ```
 
-- 🔭 Building **RAG-based AI applications** in Java using LangChain4j + Spring Boot
-- 🧠 Deep diving into **Vector Embeddings, Semantic Search, Prompt Engineering, Agentic Workflows**
-- 💡 Proving that **Java can power production-grade AI** 
-- 🤝 Open-source contributor at **@VosynSW**
-- 💬 Ask me about **Java, Spring Boot, LangChain4j, RAG pipelines, Groq API**
-- 🤝 Open to collaborations on **Java AI integrations & production RAG demos**
+-  Building **RAG-based AI applications** in Java using LangChain4j + Spring Boot
+-  Deep diving into **Vector Embeddings, Semantic Search, Prompt Engineering, Agentic Workflows**
+-  Proving that **Java can power production-grade AI** 
+-  Open-source contributor at **@VosynSW**
+-  Ask me about **Java, Spring Boot, LangChain4j, RAG pipelines, Groq API**
+-  Open to collaborations on **Java AI integrations & production RAG demos**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -76,7 +76,7 @@ Status   : Open to new opportunities 🟢
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
