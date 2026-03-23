@@ -16,7 +16,7 @@ RAG pipelines, semantic search, and LLM integrations, all without leaving the JV
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandana-musunuru/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musunuruchandana1999@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](musunuruchandana1999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandana-musunuru)
 
 </div>
@@ -35,7 +35,7 @@ Status   : Open to new opportunities 🟢
 - 🔭 Building **RAG-based AI applications** in Java using LangChain4j + Spring Boot
 - 🧠 Deep diving into **Vector Embeddings, Semantic Search, Prompt Engineering, Agentic Workflows**
 - 💡 Proving that **Java can power production-grade AI** — no Python required
-- 🤝 Open-source contributor at **@VosynSW** and **@CSE-5160**
+- 🤝 Open-source contributor at **@VosynSW**
 - 💬 Ask me about **Java, Spring Boot, LangChain4j, RAG pipelines, Groq API**
 - 🤝 Open to collaborations on **Java AI integrations & production RAG demos**
 
